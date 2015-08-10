@@ -1,0 +1,1 @@
+Adds charcoal, a coal-like fuel craftable from wood, and related recipes : torches, blocs, gunpowder, charcoal block.

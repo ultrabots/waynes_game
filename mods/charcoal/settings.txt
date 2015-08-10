@@ -1,0 +1,5 @@
+-- charcoal as a separate node
+-- false does not "clutter" your server
+charcoal.separate_node = true
+charcoal.cooking_time = 30
+charcoal.lump_per_tree = 2

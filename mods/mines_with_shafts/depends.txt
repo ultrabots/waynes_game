@@ -1,0 +1,5 @@
+default
+cottages?
+tnt?
+stairs?
+carts?
