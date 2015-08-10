@@ -1,6 +1,6 @@
 # waynes_game
 # a game system for the minetest engine
-# 
+#  
 # this game is my tweaks and additions to the default minetest_game
 # mostly geared for a survival style setup
 #
