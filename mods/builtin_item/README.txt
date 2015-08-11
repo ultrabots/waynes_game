@@ -1,8 +1,12 @@
-===ITEM_DROP MOD for MINETEST-C55===
+=== BUILTIN_ITEM MOD for MINETEST-C55 ===
 by PilzAdam
 
-Introduction:
-This mod adds Minecraft like drop/pick up of items to Minetest.
+Features:
+This mod adds some new features to the builtin items:
+- The items are pushed by flowing water
+- The items are destroyed by lava
+- The items are removed after 300 seconds or the time that is specified by
+   remove_items in minetest.conf (0 disables it)
 
 How to install:
 Unzip the archive an place it in minetest-base-directory/mods/minetest/
@@ -13,16 +17,8 @@ worldmods/ in your worlddirectory.
 For further information or help see:
 http://wiki.minetest.com/wiki/Installing_Mods
 
-How to use the mod:
-Just install it an everything works.
-
-For developers:
-You dont have to use get_drops() anymore because of changes in the
-builtin files of minetest.
-
 License:
-Sourcecode: WTFPL (see below)
-Sound: WTFPL (see below)
+WTFPL (see below)
 
 See also:
 http://minetest.net/
